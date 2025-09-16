@@ -1,12 +1,5 @@
-<!-- Animated cosmic background for a modern look -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/public/graphics/emojis/star2.png" width="30" />
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="60" alt="Stars Animated" />
-  <img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/public/graphics/emojis/star2.png" width="30" />
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=5DD8FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+universe+of+code!;I'm+Hana+Hany+%F0%9F%92%BB;Fullstack+Developer+with+an+AI+twist;Fueled+by+curiosity+%7C+Driven+by+creativity" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=5DD8FF&center=true&vCenter=true&width=700&lines=I'm+Hana+Hany+%F0%9F%92%BB;Fullstack+Developer+with+an+AI+twist;Fueled+by+curiosity+and+creativity" alt="Animated Typing SVG" />
 </h1>
 
 <p align="center">
