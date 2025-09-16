@@ -76,7 +76,6 @@
 - [C44-G03-LINQ-Part](https://github.com/HanaAboauf/C44-G03-LINQ-Part)
 - [EntityFrameWorkPart](https://github.com/HanaAboauf/EntityFrameWorkPart)
 - [C44-G03-ADV](https://github.com/HanaAboauf/C44-G03-ADV)
-- [landingPage](https://github.com/hassan5464/landingPage)
 
 ---
 
