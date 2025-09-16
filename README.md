@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hana+Aboauf!;Fullstack+Developer+%7C+React+%26+ASP.NET+Enthusiast;Branching+out+in+tech%2C+one+node+at+a+time" alt="Typing SVG" />
+</p>
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
 # 👋 Hi, I'm Hana Hany!
 
 > **🌳 Branching out in tech, one node at a time.**
