@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hana Aboauf!
+# 👋 Hi, I'm Hana Hany!
 
 > **🌳 Branching out in tech, one node at a time.**
 
