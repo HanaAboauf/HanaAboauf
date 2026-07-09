@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=5DD8FF&center=true&vCenter=true&width=700&lines=I'm+Hana+Hany+%F0%9F%92%BB;Fullstack+Developer+with+an+AI+twist;Fueled+by+curiosity+and+creativity" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=5DD8FF&center=true&vCenter=true&width=700&lines=I'm+Hana+Hany+%F0%9F%92%BB;Fullstack+Developer+with+a[...]
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F7DF1E&center=true&vCenter=true&width=420&lines=React+%7C+Next.js+%7C+ASP.NET+%7C+C%23+%7C+AI+Enthusiast" alt="Tech Stack Animated" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F7DF1E&center=true&vCenter=true&width=420&lines=React+%7C+Next.js+%7C+ASP.NET+%7C+C%23+%7C+AI+Enthusi[...]
 </p>
 
 <p align="center">
@@ -46,9 +46,16 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,aspdotnet,csharp,js,github" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,aspdotnet,csharp,cpp,python,java,js,html,css,flutter,github" alt="Tech stack icons" />
 </p>
 
+<p align="center">
+  <b>Frontend:</b> React, Next.js, Flutter, HTML, CSS, JavaScript<br>
+  <b>Backend:</b> ASP.NET, C#<br>
+  <b>Languages:</b> C#, C++, Python, Java, JavaScript<br>
+  <b>Data & AI:</b> scikit-learn, pandas, NumPy<br>
+  <b>Tools:</b> GitHub
+</p>
 
 ---
 
@@ -81,5 +88,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=1200&color=9B59B6&center=true&vCenter=true&width=500&lines=Let's+innovate%2C+create%2C+and+explore+together!;Happy+Coding+%F0%9F%92%BB" alt="Animated Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=1200&color=9B59B6&center=true&vCenter=true&width=500&lines=Let's+innovate%2C+create%2C+and+explore+together!;Ha[...]
 </p>
