@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=5DD8FF&center=true&vCenter=true&width=700&lines=I'm+Hana+Hany+%F0%9F%92%BB;Fullstack+Developer+with+a+passion+for+innovation!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=5DD8FF&center=true&vCenter=true&width=700&lines=I'm+Hana+Hany+%F0%9F%92%BB;Fullstack+Developer+with+a[...]
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F7DF1E&center=true&vCenter=true&width=420&lines=React+%7C+Next.js+%7C+ASP.NET+%7C+C%23+%7C+AI+Enthusiast" alt="Tech Stack Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F7DF1E&center=true&vCenter=true&width=420&lines=React+%7C+Next.js+%7C+ASP.NET+%7C+C%23+%7C+AI+Enthusi[...]
 </p>
 
 <p align="center">
@@ -137,6 +137,9 @@
   <a href="mailto:hana.abuauf@gmail.com">
     <img src="https://img.shields.io/badge/Email-hana.abuauf%40gmail.com-blue?style=flat&logo=gmail" alt="Email badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/hana-hany-433101321/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hana%20Hany-blue?style=flat&logo=linkedin" alt="LinkedIn badge"/>
+  </a>
 </p>
 
 ---
@@ -160,5 +163,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=1200&color=9B59B6&center=true&vCenter=true&width=500&lines=Let's+innovate%2C+create%2C+and+explore+together!;Happy+Coding+%F0%9F%92%BB" alt="Closing message typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=1200&color=9B59B6&center=true&vCenter=true&width=500&lines=Let's+innovate%2C+create%2C+and+explore+together!;H[...]
 </p>
