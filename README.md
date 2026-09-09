@@ -80,8 +80,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=cassandra&logoColor=white" alt="Cassandra"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </p>
 
 ### Cloud & DevOps:
@@ -135,7 +133,7 @@
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p >
   <a href="mailto:hana.abuauf@gmail.com">
     <img src="https://img.shields.io/badge/Email-hana.abuauf%40gmail.com-blue?style=flat&logo=gmail" alt="Email badge"/>
   </a>
