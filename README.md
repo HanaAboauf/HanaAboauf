@@ -47,7 +47,7 @@
 
 ### Programming Languages:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -58,7 +58,7 @@
 
 ### Web Development:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
@@ -74,7 +74,7 @@
 
 ### Databases:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -86,7 +86,7 @@
 
 ### Cloud & DevOps:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
@@ -98,7 +98,7 @@
 
 ### Big Data & ETL:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Apache Spark-E25041?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black" alt="Apache Hadoop"/>
   <img src="https://img.shields.io/badge/Apache Hive-FDEE62?style=flat&logo=apache-hive&logoColor=black" alt="Apache Hive"/>
@@ -107,7 +107,7 @@
 
 ### Data Science & Machine Learning:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -120,14 +120,14 @@
 
 ### Design & Visualization:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ### Mobile Development:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
